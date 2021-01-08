@@ -23,8 +23,7 @@ div:hover{
     background-color: #303030;
 }
 img {
-    width: 450px;
-    height: 550px;
+    width: 50%;
     border-radius: 80em 80em 80em 80em;
     border: 2px solid whitesmoke;
     box-shadow: 10px 13px 15px 10px whitesmoke
