@@ -13,7 +13,7 @@ p {
 }
 div {
     padding-top: 75px;
-    /* border: 5px solid whitesmoke; */
+    border: 5px solid whitesmoke;
     background-color: #484848;
     width: 100%;
     height: 1100px;
